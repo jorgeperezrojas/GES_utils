@@ -74,7 +74,6 @@ class GESSimpleMatcher:
         out_string = unidecode(out_string)
         return out_string
 
-    # se puede mover el alpha para ajustar la precisión
     def get_possible_ges_ids(self, raw_string):
         
         to_search = self.__normalize(raw_string)
