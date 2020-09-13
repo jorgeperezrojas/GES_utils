@@ -496,7 +496,7 @@
         "Traqueobronquitis obstructiva crónica"
     ],
     "Enfermedad Renal Crónica Etapa 4 y 5": [
-        "\nToda enfermedad renal crónica en etapa 4 y 5.\n"
+        "Toda enfermedad renal crónica en etapa 4 y 5."
     ],
     "Enfermedad de Parkinson": [
         "Enfermedad de Parkinson."
@@ -926,7 +926,9 @@
     ],
     "Síndrome de la inmunodeficiencia adquirida VIH/SIDA": [
         "Infección por Virus de la Inmunodeficiencia Humana (VIH)",
-        "Síndrome de Inmunodeficiencia Adquirida (SIDA)"
+        "Síndrome de Inmunodeficiencia Adquirida (SIDA)",
+        "VIH",
+        "SIDA"
     ],
     "Trastorno Bipolar en personas de 15 años y más": [
         "Trastorno bipolar, episodio actual hipomaniaco",
@@ -1065,7 +1067,20 @@
         "Herida perforante ocular",
         "Herida penetrante del globo ocular con cuerpo extraño",
         "Rotura y estallido ocular",
-        "Contusión grave del globo ocular y del tejido orbitario:\n- Hifema traumático\n- Desprendimiento de Retina traumático\n- Agujero macular traumático\n- Causticación grave (grado 3 y 4)\n- Laceración conjuntival > 10 mm\n- Laceración corneal\n- Catarata traumática\n- Ulcera corneal de origen traumático\n- Fractura orbitaria con hipo o enoftalmo\n- Herida palpebral con compromiso Vía lagrimal y/o borde libre\n- Endoftalmitis traumática\n- Neuropatía óptica traumática.\n- Otras lesiones traumáticas severas del globo ocular"
+        "Contusión grave del globo ocular y del tejido orbitario",
+        "Hifema traumático",
+        "Desprendimiento de Retina traumático",
+        "Agujero macular traumático",
+        "Causticación grave (grado 3 y 4)",
+        "Laceración conjuntival > 10 mm",
+        "Laceración corneal",
+        "Catarata traumática",
+        "Ulcera corneal de origen traumático",
+        "Fractura orbitaria con hipo o enoftalmo",
+        "Herida palpebral con compromiso Vía lagrimal y/o borde libre",
+        "Endoftalmitis traumática",
+        "Neuropatía óptica traumática.",
+        "Otras lesiones traumáticas severas del globo ocular"
     ],
     "Traumatismo Cráneo Encefálico moderado o grave": [
         "Fractura de la bóveda del cráneo con traumatismo intracraneal",
