@@ -15,7 +15,9 @@ import ipdb
 class GESSimpleMatcher:
     '''
     Clase para hacer match simple de patologías GES. Solo considera similitud entre strings, 
-    nada muy sofisticado. Basado en código de Fabián Villena (https://fabianvillena.cl)
+    nada muy sofisticado. Basado en código de Fabián Villena (https://fabianvillena.cl).
+    Actualmente considera un extractor de features que combina caracteres y palabras y tiene
+    ciertas cosas específicas de textos GES.
     TODO: 
         - probar técnicas un poco más sofisticadas de matching
         - completar la documentación
