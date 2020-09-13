@@ -15,8 +15,8 @@ class GESSimpleMatcher:
     '''
     def __init__(
             self, 
-            base_ges_data='general_data/ges-health-problems.json', 
-            no_ges_str='NO GES',
+            base_ges_data='ges_utils/data/ges-health-problems.json', 
+            no_ges_str='UNK',
             alpha=0.65
         ):
 
